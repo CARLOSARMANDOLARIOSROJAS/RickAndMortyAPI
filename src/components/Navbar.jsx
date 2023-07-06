@@ -1,4 +1,3 @@
-
 export const Navbar = ({ brand }) => {
   return (
     <nav className="navbar navbar-dark bg-dark">
