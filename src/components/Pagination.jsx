@@ -1,5 +1,4 @@
 export const Pagination = ({ prev, next, onPrevious, onNext }) => {
-    
   const handlePrevious = () => {
     onPrevious();
   };
